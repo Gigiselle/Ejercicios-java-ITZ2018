@@ -1,5 +1,4 @@
 # Ejercicios-java-ITZ2018
-===========================
 Ejercicios
 ===================
 Giselle Castrejon Gonzalez  gis.castrejing1@gmail.com
